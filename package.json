@@ -1,0 +1,22 @@
+{
+  "name": "my_gallery",
+  "version": "1.0.0",
+  "description": "Angular and NodeJS gallery using MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliAbramov/My_Gallery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaliAbramov/My_Gallery/issues"
+  },
+  "homepage": "https://github.com/VitaliAbramov/My_Gallery#readme",
+  "dependencies": {
+    "mongodb": "^3.0.1"
+  }
+}
