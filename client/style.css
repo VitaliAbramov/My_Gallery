@@ -1,3 +1,9 @@
+body{
+    background-color: black;
+}
+.navigator{
+    margin-top: 35px;
+}
 .arrow {
     cursor: pointer;
     display: block;
@@ -34,7 +40,7 @@
     left: 0;
     margin: 0 auto;
     padding: 1em 0 0.8em;
-    position: absolute;
+/*  position: absolute;*/
     right: 0;
     text-align: center;
     width: 100%;
@@ -51,15 +57,15 @@
     width: 50px;
 }
 .nav li.active {
-    border: 5px solid #FFFFFF;
+    border: 5px solid royalblue;
 }
 .nav li img {
     width: 100%;
 }
 .slider {
-    border: 15px solid #FFFFFF;
+    border: 15px solid royalblue;
     border-radius: 5px;
-    height: 500px;
+    height: 550px;
     margin: 20px auto;
     position: relative;
     width: 800px;
