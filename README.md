@@ -31,3 +31,8 @@ to run the client API:
 http-server
 ```
 assuming that port 8080 is available.
+
+# Demo 
+![alt text](https://github.com/VitaliAbramov/My_Gallery/screen_shots/image01.png)
+
+The gallery should look like the image above.
