@@ -33,6 +33,7 @@ http-server
 assuming that port 8080 is available.
 
 # Demo 
-![alt text](https://github.com/VitaliAbramov/My_Gallery/screen_shots/image01.png)
+
+![alt text](https://github.com/VitaliAbramov/My_Gallery/blob/maste/screen_shots/image01.png)
 
 The gallery should look like the image above.
