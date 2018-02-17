@@ -1,4 +1,4 @@
-# My_Gallery
+# My Gallery
 This gallery application is written in MEAN stack.
 The backend is restful API using Node.
 The frontend is single page application using Angular 1.2.
@@ -34,6 +34,6 @@ assuming that port 8080 is available.
 
 # Demo 
 
-![alt text](https://github.com/VitaliAbramov/My_Gallery/blob/maste/screen_shots/image01.png)
+![alt text](https://github.com/VitaliAbramov/My_Gallery/blob/master/screen_shots/image01.png)
 
 The gallery should look like the image above.
